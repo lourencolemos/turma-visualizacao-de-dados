@@ -43,4 +43,38 @@ O link do Repositório GitHub deverá ser submetido na tarefa Módulo 1 - Mini-P
 
 4. REQUISITOS DAS TAREFAS 
 
-Neste item devem ser listadas tarefas em formato de Sprint para que os estudantes possam realizar durante o período de execução do Mini-projeto Avaliativo. Seguindo as orientações e critérios disponibilizados neste arquivo. Sprint 1 (Importação dos dados): Realização da importação dos dados na plataforma Kaggle para a IDE VsCode ou Colab, onde o script será executado. Sprint 2 (Transformação de Strings, Integer e Float e Datetime): Desenvolvimento das funções de limpeza de texto, inteiros e decimais usando métodos e expressões regulares. Sprint 3 (Limpeza de Nulos e Duplicatas): Aplicação das condicionais e funções para identificação e substituição de valores vazios e de str para valores de data tipo datetime, na tabela de varejo. Sprint 4 (Estatística Descritiva): Aplicação das funções estatísticas para coletar parâmetros da coluna de Número de filhos do cliente. Sprint 5 (Relatório e Documentação): Construção dos contadores do relatório final exibido no terminal, finalização do README.md com a reflexão teórica e submissão do link no AVA. Sprint 6 (Versionamento): Envio dos arquivos (script + README.md + df_limpo), via Git para o repositório da turma no GitHub. 5. CRITÉRIOS DE AVALIAÇÃO A tabela abaixo apresenta os critérios que serão avaliados durante a correção do projeto. O mesmo possui variação de nota de 0 (zero) a 10 (dez) como nota mínima e máxima, e possui peso de 25% sobre a avaliação do módulo. Serão desconsiderados e atribuída a nota 0 (zero) os projetos que apresentarem plágio de soluções encontradas na internet ou de outros colegas. Lembre-se: Você está livre para utilizar outras soluções como base, mas não é permitida a cópia. Tabela que vou enviar print
+Neste item devem ser listadas tarefas em formato de Sprint para que os estudantes possam realizar durante o período de execução do Mini-projeto Avaliativo. Seguindo as orientações e critérios disponibilizados neste arquivo. 
+
+- Sprint 1 (Importação dos dados): Realização da importação dos dados na plataforma Kaggle para a IDE VsCode ou Colab, onde o script será executado. 
+
+- Sprint 2 (Transformação de Strings, Integer e Float e Datetime): Desenvolvimento das funções de limpeza de texto, inteiros e decimais usando métodos e expressões regulares. 
+
+- Sprint 3 (Limpeza de Nulos e Duplicatas): Aplicação das condicionais e funções para identificação e substituição de valores vazios e de str para valores de data tipo datetime, na tabela de varejo. 
+
+- Sprint 4 (Estatística Descritiva): Aplicação das funções estatísticas para coletar parâmetros da coluna de Número de filhos do cliente. 
+
+- Sprint 5 (Relatório e Documentação): Construção dos contadores do relatório final exibido no terminal, finalização do README.md com a reflexão teórica e submissão do link no AVA. 
+
+- Sprint 6 (Versionamento): Envio dos arquivos (script + README.md + df_limpo), via Git para o repositório da turma no GitHub. 
+
+5. CRITÉRIOS DE AVALIAÇÃO 
+
+A tabela abaixo apresenta os critérios que serão avaliados durante a correção do projeto. O mesmo possui variação de nota de 0 (zero) a 10 (dez) como nota mínima e máxima, e possui peso de 25% sobre a avaliação do módulo. 
+
+Serão desconsiderados e atribuída a nota 0 (zero) os projetos que apresentarem plágio de soluções encontradas na internet ou de outros colegas. Lembre-se: Você está livre para utilizar outras soluções como base, mas não é permitida a cópia.
+
+Versionamento
+- Não entregou o repositório no GitHub contendo os arquivos organizados e um README.md explicativo com a reflexão teórica obrigatória sobre ETL e qualidade de dados.
+== Entregou o repositório no GitHub contendo os arquivos organizados e um README.md explicativo com a reflexão teórica obrigatória sobre ETL e qualidade de dados.
+
+Documentação
+- Não desenvolveu Arquivo README.md contendo de 3-6 tópicos com insights obtidos da análise dos dados.
+== Desenvolveu Arquivo README.md contendo de 3-6 tópicos com insights obtidos da análise dos dados.
+
+Manipulação de Arquivos CSV
+- Não realizou a leitura e extração dos arquivos de dados de forma parcialmente estruturada (csv.DictReader).
+== Realizou a leitura e extração dos arquivos de dados de forma parcialmente estruturada (csv.DictReader).
+==== Realizou a leitura e extração dos arquivos de dados de forma estruturada e nativa (csv.DictReader).
+
+
+
